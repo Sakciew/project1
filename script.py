@@ -30,5 +30,5 @@ def kmeans_thresholding(image_path, k=2):
 
 kmeans_thresholding('rasm.jpg', k=2)
 
-Anvarjonov Shohjhaon
-Yakuniy kurs talabasi
+Anvarjonov Shohjahon
+
