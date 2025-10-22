@@ -1,3 +1,6 @@
+import cv2
+import numpy as np
+
 def kmeans_thresholding(image_path, k=2):
     img = cv2.imread(image_path)
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
@@ -26,6 +29,3 @@ def kmeans_thresholding(image_path, k=2):
     cv2.imwrite('rasm1.jpg', binary_image)
 
 kmeans_thresholding('rasm.jpg', k=2)
-
-Yangi narsa
-Yangi qator
