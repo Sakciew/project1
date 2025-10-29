@@ -56,5 +56,5 @@ if __name__ == "__main__":
     plt.title("Enhanced (MSR) Image")
 
     plt.show()
-    print("Shohjahon Anvarjonov Sherzod o'g'li")
-    print("AXB yo'nalishi talabasi")
+    # print("Shohjahon Anvarjonov Sherzod o'g'li")
+    # print("AXB yo'nalishi talabasi")
