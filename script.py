@@ -56,3 +56,4 @@ if __name__ == "__main__":
     plt.title("Enhanced (MSR) Image")
 
     plt.show()
+    print("Anvarjonov Shohjahon")
