@@ -57,4 +57,5 @@ if __name__ == "__main__":
 
     plt.show()
     print("Shohjahon Anvarjonov Sherzod o'g'li")
+
     print("AXB yo'nalishi talabasi")
